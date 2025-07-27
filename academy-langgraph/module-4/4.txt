@@ -1,0 +1,23 @@
+Lesson 1: Parallelization
+
+Notebook Reference: parallelization.ipynb
+Download Notebook on GitHub
+View Notebook on Google Colab
+Lesson 2: Sub-graphs
+
+Notebook Reference: sub-graph.ipynb
+Download Notebook on GitHub
+View Notebook on Google Colab
+Lesson 3: Map-reduce
+
+Notebook Reference: map-reduce.ipynb
+Download Notebook on GitHub
+View Notebook on Google Colab
+Lesson 4: Research Assistant
+
+Notebook Reference: research-assistant.ipynb
+Download Notebook on GitHub
+View Notebook on Google Colab
+Module 4 LangGraph Studio Files
+
+Download on GitHub

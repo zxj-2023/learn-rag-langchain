@@ -1,0 +1,103 @@
+Lesson 1: Motivation  第一课：动机
+
+LangChain Academy - Introduction to LangGraph - Motivation.pdf
+LangChain Academy - LangGraph 入门 - 动机.pdf
+LangGraph FAQ  LangGraph 常见问题解答
+
+Do I need to use LangChain to use LangGraph? What’s the difference?
+我需要使用 LangChain 才能使用 LangGraph 吗？它们有什么区别？
+No. LangGraph is an orchestration framework for complex agentic systems and is more low-level and controllable than LangChain agents. On the other hand, LangChain provides a standard interface to interact with models and other components, useful for straight-forward chains and retrieval flows.
+不需要。LangGraph 是一个用于复杂智能体系统的编排框架，比 LangChain 智能体更低级且更可控。另一方面，LangChain 提供了一个标准接口来与模型和其他组件交互，适用于简单的链和检索流程。
+How is LangGraph different from other agent frameworks?
+LangGraph 与其他代理框架有何不同？
+Other agentic frameworks can work for simple, generic tasks but fall short for complex tasks bespoke to a company’s needs. LangGraph provides a more expressive framework to handle companies’ unique tasks without restricting users to a single black-box cognitive architecture.
+其他代理框架适用于简单的通用任务，但在处理公司特有的复杂任务时却显得力不从心。LangGraph 提供了一个更灵活的框架，能够处理公司独特的任务，同时不会将用户限制在单一的封闭式认知架构中。
+Does LangGraph impact the performance of my app?
+LangGraph 会影响我的应用程序的性能吗？
+LangGraph will not add any overhead to your code and is specifically designed with streaming workflows in mind.
+LangGraph 不会给您的代码增加任何额外负担，并且特别设计用于流式工作流程。
+Is LangGraph open source? Is it free?
+LangGraph 是开源的吗？它是免费的吗？
+Yes. LangGraph is an MIT-licensed open-source library and is free to use.
+是的。LangGraph 是一个采用 MIT 许可的开源库，并且可以免费使用。
+Is LangGraph Platform open source?
+LangGraph 平台是开源的吗？
+No. LangGraph Platform is proprietary software that will eventually be a paid service for certain tiers of usage. We will always give ample notice before charging for a service and reward our early adopters with preferential pricing.
+编号：LangGraph 平台是专有软件，最终将针对某些使用层级提供付费服务。在收费前，我们将始终提前提供充分通知，并对早期采用者提供优惠价格。
+How do I enable LangGraph Platform?
+如何启用 LangGraph 平台？
+For now, LangGraph Platform is in beta. While in beta, all LangSmith users on Plus and Enterprise plans can access LangGraph Platform. Check out the docs.
+目前，LangGraph 平台处于测试阶段。在测试期间，所有 Plus 和 Enterprise 计划的 LangSmith 用户均可访问 LangGraph 平台。请查看文档。
+How are LangGraph and LangGraph Platform different?
+LangGraph 和 LangGraph 平台有何不同？
+LangGraph is a stateful, orchestration framework that brings added control to agent workflows. LangGraph Platform is a service for deploying and scaling LangGraph applications, with a built-in Studio for prototyping, debugging, and sharing LangGraph applications. If you'd like to learn more, check out the comparison table in the FAQ on the bottom of this page.
+LangGraph 是一个有状态的工作流编排框架，为智能体工作流提供了更强的控制能力。LangGraph 平台是一个用于部署和扩展 LangGraph 应用的服务，内置了用于原型设计、调试和共享 LangGraph 应用的工作室。如需了解更多信息，请查看本页底部 FAQ 中的比较表格。
+How does LangGraph fit into the LangChain ecosystem? 
+LangGraph 如何融入 LangChain 生态系统？
+We aim to simplify every stage of the LLM application lifecycle.
+我们的目标是简化 LLM 应用生命周期的每个阶段。
+Development: Build your applications using LangChain's open-source building blocks, components, and third-party integrations. Use LangGraph to build stateful agents with first-class streaming and human-in-the-loop support.
+开发：使用 LangChain 的开源构建模块、组件和第三方集成来构建您的应用。使用 LangGraph 构建有状态智能体，支持一流的流式处理和人工参与循环。
+Production: Use LangSmith to inspect, monitor and evaluate your chains, so that you can continuously optimize and deploy with confidence.
+生产：使用 LangSmith 来检查、监控和评估你的链，以便你可以持续优化并自信地部署。
+Deployment: Turn your LangGraph applications into production-ready APIs and Assistants with LangGraph Platform.
+部署：使用 LangGraph 平台将你的 LangGraph 应用程序转换为生产就绪的 API 和助手。
+
+
+Lesson 2: Simple Graph  课程 2：简单图
+
+Notebook Reference: simple-graph.ipynb
+Download Notebook on GitHub
+在 GitHub 上下载 Notebook
+View Notebook on Google Colab
+在 Google Colab 上查看 Notebook
+Lesson 3: LangGraph Studio
+第 3 课：LangGraph Studio
+
+LangGraph Studio
+GitHub: LangGraph Studio
+Download Module 1 LangGraph Studio Files on GitHub
+在 GitHub 上下载模块 1 LangGraph Studio 文件
+Lesson 4: Chain  第 4 课：Chain
+
+Notebook Reference: chain.ipynb
+笔记本参考：chain.ipynb
+Download Notebook on GitHub
+在 GitHub 上下载 Notebook
+View Notebook on Google Colab
+在 Google Colab 上查看 Notebook
+Lesson 5: Router  课程 5：路由器
+
+Notebook Reference: router.ipynb
+笔记本参考：router.ipynb
+Download Notebook on GitHub
+在 GitHub 上下载 Notebook
+View Notebook on Google Colab
+在 Google Colab 上查看 Notebook
+Lesson 6: Agent  第六课：代理
+
+Notebook Reference: agent.ipynb
+Download Notebook on GitHub
+在 GitHub 上下载 Notebook
+View Notebook on Google Colab
+在 Google Colab 上查看 Notebook
+Lesson 7: Agent with Memory
+第七课：带记忆的代理
+
+Notebook Reference: agent-memory.ipynb
+Download Notebook on GitHub
+在 GitHub 上下载 Notebook
+View Notebook on Google Colab
+在 Google Colab 上查看 Notebook
+[Optional] Lesson 8: Deployment
+[可选] 第 8 课：部署
+
+Currently, LangGraph Platform is available only for LangSmith Plus plan users. Lesson 8 in this course is optional.
+目前，LangGraph 平台仅限 LangSmith Plus 计划用户使用。本课程中的第 8 课为可选内容。
+
+Notebook Reference: deployment.ipynb
+Notebook 参考：deployment.ipynb
+Download Notebook on GitHub
+在 GitHub 上下载 Notebook
+View Notebook on Google Colab
+在 Google Colab 上查看 Notebook

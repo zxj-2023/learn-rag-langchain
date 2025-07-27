@@ -1,0 +1,26 @@
+Lesson 1: Short vs. Long-Term Memory
+
+LangChain Academy - Introduction to LangGraph - Long-Term Memory.pdf
+Lesson 2: Memory Store
+
+Notebook Reference: memory_store.ipynb
+Download Notebook on GitHub
+View Notebook on Google Colab
+Lesson 3: Memory Schema + Profile
+
+Notebook Reference: memoryschema_profile.ipynb
+Download Notebook on GitHub
+View Notebook on Google Colab
+Lesson 4: Memory Schema + Collection
+
+Notebook Reference: memoryschema_collection.ipynb
+Download Notebook on GitHub
+View Notebook on Google Colab
+Lesson 5: Build an Agent with Long-Term Memory
+
+Notebook Reference: memory_agent.ipynb
+Download Notebook on GitHub
+View Notebook on Google Colab
+Module 5 LangGraph Studio Files
+
+Download on GitHub

@@ -1,0 +1,26 @@
+Module 6 Deployment Files
+
+Download on GitHub
+Lesson 1: Deployment Concepts
+
+LangChain Academy - Introduction to LangGraph - Deployment.pdf
+Lesson 2: Creating a Deployment
+
+Notebook Reference: creating.ipynb
+Download Notebook on GitHub
+View Notebook on Google Colab
+Lesson 3: Connecting to a Deployment
+
+Notebook Reference: connecting.ipynb
+Download Notebook on GitHub
+View Notebook on Google Colab
+Lesson 4: Double Texting
+
+Notebook Reference: double-texting.ipynb
+Download Notebook on GitHub
+View Notebook on Google Colab
+Lesson 5: Assistants
+
+Notebook Reference: assistant.ipynb
+Download Notebook on GitHub
+View Notebook on Google Colab

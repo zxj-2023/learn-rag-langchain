@@ -1,0 +1,52 @@
+Lesson 1: State Schema  第一课：状态模式
+
+Notebook Reference: state-schema.ipynb
+Download Notebook on GitHub
+在 GitHub 上下载 Notebook
+View Notebook on Google Colab
+在 Google Colab 上查看 Notebook
+Lesson 2: State Reducers
+
+Notebook Reference: state-reducers.ipynb
+Download Notebook on GitHub
+在 GitHub 上下载 Notebook
+View Notebook on Google Colab
+在 Google Colab 上查看 Notebook
+Lesson 3: Multiple Schemas
+第三课：多个模式
+
+Notebook Reference: multiple-schemas.ipynb
+Download Notebook on GitHub
+在 GitHub 上下载 Notebook
+View Notebook on Google Colab
+在 Google Colab 上查看 Notebook
+Lesson 4: Trim and Filter Messages
+课程 4：修剪和过滤消息
+
+Notebook Reference: trim-filter-messages.ipynb
+Download Notebook on GitHub
+在 GitHub 上下载 Notebook
+View Notebook on Google Colab
+在 Google Colab 上查看 Notebook
+Lesson 5: Chatbot w/ Summarizing Messages and Memory
+课程 5：带消息摘要和记忆的聊天机器人
+
+Notebook Reference: chatbot-summarization.ipynb
+Download Notebook on GitHub
+在 GitHub 上下载 Notebook
+View Notebook on Google Colab
+在 Google Colab 上查看 Notebook
+Lesson 6: Chatbot w/ Summarizing Messages and External Memory
+第六课：带消息摘要和外部记忆的聊天机器人
+
+Notebook Reference: chatbot-external-memory.ipynb
+Download Notebook on GitHub
+在 GitHub 上下载 Notebook
+View Notebook on Google Colab
+在 Google Colab 上查看 Notebook
+Download Example.db file on GitHub
+在 GitHub 上下载 Example.db 文件
+Module 2 LangGraph Studio Files
+模块 2 LangGraph Studio 文件
+
+Download on GitHub  在 GitHub 上下载

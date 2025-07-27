@@ -1,0 +1,35 @@
+{
+    'chatbot': {
+        'messages': [
+            {
+                'content': '你好！有什么可以帮助你的吗？😊',
+                'additional_kwargs': {
+                    'refusal': None
+                },
+                'response_metadata': {
+                    'token_usage': {
+                        'completion_tokens': 8,
+                        'prompt_tokens': 13,
+                        'total_tokens': 21,
+                        'completion_tokens_details': None,
+                        'prompt_tokens_details': None
+                    },
+                    'model_name': 'qwen-plus-2025-04-28',
+                    'system_fingerprint': None,
+                    'id': 'chatcmpl-777bd96e-2846-96e7-b38b-e389b4907cc7',
+                    'service_tier': None,
+                    'finish_reason': 'stop',
+                    'logprobs': None
+                },
+                'id': 'run--a90d3c12-24c7-434e-9097-7213bcefd1fa-0',
+                'usage_metadata': {
+                    'input_tokens': 13,
+                    'output_tokens': 8,
+                    'total_tokens': 21,
+                    'input_token_details': {},
+                    'output_token_details': {}
+                }
+            }
+        ]
+    }
+}
